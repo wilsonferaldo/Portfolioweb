@@ -121,7 +121,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 75vh;
   box-sizing: border-box;
   gap: 60px;
   flex-wrap: wrap;
@@ -175,7 +175,7 @@ body {
 }
 
 .home-text {
-  max-width: 500px;
+  max-width: 1000px;
   font-size: 1rem;
   line-height: 1.6;
   flex-shrink: 1;
